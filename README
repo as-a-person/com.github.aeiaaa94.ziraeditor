@@ -1,7 +1,7 @@
-Zira Editor is a lightweight PHP Editor for Linux, Android and Raspberry Pi
+Zira Editor (aeiaaa94 edition) is a lightweight PHP Editor for Linux (Mostly tested on debian)
 with syntax highlighting and autocomplete.
 
-Watch demo and view screenshots: https://ziracms.github.io/editor/en/index.html
+The original is here: https://github.com/ziracms/editor
 
 Main features:
 - low memory usage
@@ -59,7 +59,7 @@ Requirements:
       qtermwidget5 library (optional)
     
 Installation:
-      - download package for your OS from https://github.com/ziracms/editor/releases
-      - unpack and run install.sh (Linux only)
+      - download a release from https://github.com/as-a-person/com.github.aeiaaa94.ziraeditor/releases
+      - unpack and run install.sh
 
-Get it for Android on Google Play: https://play.google.com/store/apps/details?id=com.github.ziracms.editor2
+This is a fork of zira editor 2 by ziracms
