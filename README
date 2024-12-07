@@ -61,6 +61,7 @@ Requirements:
 Installation:
       - download a release from https://github.com/as-a-person/com.github.aeiaaa94.ziraeditor/releases
       - unpack and run install.sh
+      - if that does not work you gotta do it manually
 
 This is a fork of zira editor 2 by ziracms
 Note: android stuff is probably for later
